@@ -1,7 +1,12 @@
 body{
   background-color: cadetblue;
   }
-
+h1{
+  color: coral;
+}
+p{
+  color: yellow; 
+}
 img.resize{
   max-width: 50%;
   max-height: 50%;
